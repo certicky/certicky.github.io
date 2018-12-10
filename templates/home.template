@@ -1,0 +1,121 @@
+        <h2>Personal information</h2>
+		<ul>
+			<li><b>Name: </b>Michal Certicky</li>
+			<li><b>Born: </b>9. August 1985, Slovakia</li>
+		</ul>
+
+		<h2>Education</h2>
+
+		<ul>
+			<li>
+				In 2013, I got my <b>PhD.</b> degree in Computer Science at Faculty of Mathematics, 
+				Physics and Informatics of Comenius University in Bratislava, Slovakia.
+			</li>
+			<li>
+				In 2013, I received a <b>RNDr.</b> degree in Informatics at Faculty of Mathematics, 
+				Physics and Informatics of Comenius University in Bratislava, Slovakia.
+			</li>
+			<li>
+				In 2009, I finished the Master program of Cognitive Science at Faculty of Mathematics, 
+				Physics and Informatics of Comenius University in Bratislava, Slovakia.
+			</li>
+			<li>
+				In autumn 2008, I finished one-semester program <a href="http://www.bscog.org/" title="Budapest Semester in Cognitive Science">BSCS</a> (Budapest Semester in Cognitive Science) at Faculty of Sciences, Eötvös Loránd University in Budapest, Hungary.
+			</li>
+			<li>
+				In 2007, I achieved bachelor degree in Applied Informatics on Faculty of Mathematics, 
+				Physics and Informatics of Comenius University in Bratislava, Slovakia.
+			</li>
+		</ul>
+				<h2>Occupation</h2>
+
+		<ul>
+			<li>
+				Senior researcher in <a href="http://aic.fel.cvut.cz/" title="Artificial Intelligence Center">AIC: Artificial Intelligene Center</a> at FEE, Czech Technical University in Prague.
+			</li>
+            <li>
+                Leader of the AI research group <a href="http://gas.fel.cvut.cz/" title="Games and Simulations Research Group">Games and Simulations</a> 
+                at AIC, Czech Technical University in Prague.
+            </li>
+            <li>
+                Founder and CEO of a Prague-based tech company <a href="http://urbanalgorithmics.com/?locale=en">Urban Algorithmics</a>, dealing with business intelligence and population modeling.
+            </li>
+			<li>
+				My current research interests revolve mainly around artificial intelligence, machine learning, modeling and simulation.
+			</li>
+			<!--
+			<li>
+				I am a member of Knowledge Representation Research group (KR/KRG), chaired by Ján Šefránek, at <a href="http://www.dai.fmph.uniba.sk/">Department of Applied Informatics</a>, Comenius University.
+			</li>
+			<li>
+				My former interests were focused on web-related problems including usability and accessibility. In 2007 I cooperated with 
+				<a href="http://cezap.sk/" title="Support Centre for Visually Impaired Students">CEZAP</a> (Support Centre for Visually Impaired 
+				Students) at our faculty, leading a workshop about web accessibility.
+			</li>
+			-->
+		</ul>
+
+		<h2>Projects and Honors</h2>
+
+		<ul>
+			<li>
+				<i>Project:</i> The H2020 project <a href="https://ec.europa.eu/inea/en/horizon-2020/projects/h2020-transport/intelligent-transport-systems/imove">IMOVE</a> (Unlocking Large-Scale Access to Combined Mobility through a European MaaS Network)
+			</li>
+			<li>
+				<i>Project:</i> The European Structural Fund (ESF) project 'ICT for Prague' (Operational Programme Prague – Growth Pole of the Czech Republic)
+			</li>            
+			<li>
+				<i>Project:</i> The <a href="http://www.superhub-project.eu">SuperHub Project</a> (SUstainable and PERsuasive Human Users moBility in future cities - Co-financed by the European Commission - Grant agreement no.: 289067)
+			</li>
+			<li>
+				<i>Project:</i> <a href="http://agentpolis.org/">AgentPolis</a> (an agent-based urban simulation platform) 
+			</li>
+			<li>
+				<i>Project:</i> The Centre of competence <a href="http://www.centrum-rodos.cz">RODOS</a> (ROzvoj DOpravních Systémů) 
+			</li>
+			<li>
+				<i>Project:</i> Platform for organizing student programming competitions in Artificial Intelligence: RPMT project 13136/105/1051406C000, 2014-2015
+			</li>
+			<li>
+				Program Committee member at The 10th International Conference on Autonomic and Autonomous Systems (<a href="http://www.iaria.org/conferences2014/ComICAS14.html">ICAS 2014</a>)
+			</li>
+			<li>
+				Reviewer for IEEE Transactions on Computational Intelligence and AI in Games journal (TCIAIG) in 2014 and 2015.
+			</li>
+			<li>
+                                Reviewer for International IEEE Conference on Intelligent Transportation Systems, ITSC 2014.
+                        </li>
+			<li>
+				Reviewer for Grant Agency of Charles University (Prague, Czech Republic) in 2014.
+			</li>
+			<li>
+				Program Committee member at The 9th International Conference on Autonomic and Autonomous Systems (<a href="http://www.iaria.org/conferences2013/ComICAS13.html">ICAS 2013</a>)
+			</li>
+			<li>
+				Invited talk on Artificial Intelligence at IGCZ #4 conference (Indie Games CZ) 2012.
+			</li>
+			<li>
+				Program Committee member at The 8th International Conference on Autonomic and Autonomous Systems (<a href="http://www.iaria.org/conferences2012/ComICAS12.html">ICAS 2012</a>)
+			</li>
+			<li>
+				Founder and organizer of a <i>Student StarCraft AI Tournament</i> (<a href="http://sscaitournament.com/">SSCAI</a>) educational/research project
+			</li>
+			<li>
+				<i>Project:</i> Knowledge Representation for Ambient Intelligence: VEGA project (2012-2014)
+			</li>
+			<li>
+				<i>Project:</i> LAAOS - Logical Aspects of Adaptable Ontological Schemas: Bilateral PT-SK project
+			</li>
+			<li>
+				Laureate of the Student Research Conference at Faculty of Mathematics, Physics and Informatics, Comenius University in years 2010, 2011 and 2012. Reviewer in 2013.
+			</li>
+			<li>
+				<i>Project:</i> ReDIK - Reasoning with Dynamic Inconsistent Knowledge
+			</li>
+			<li>
+				<i>Project:</i> Representation of incomplete, evolving, and distributed knowledge (interacting with communication platform)
+			</li>
+			<li>
+				<i>Project:</i> Paralelization of stable model generators for extended logic programs
+			</li>
+		</ul>

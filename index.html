@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Michal Certicky</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="./js/sammy.js"></script>   
+    <script src="./js/sammy.template.js"></script>   
+    
+	<link rel="stylesheet" type="text/css" media="screen" href="./css/screen.css" />
+	<link rel="shortcut icon" href="./img/favicon.ico" />
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="./css/screen_IE7.css" /><![endif]-->
+	<meta name="Author" content="Michal Certicky" />
+	<meta name="Description" content="Personal home page of Michal Certicky contains a brief bio, contact information and a list of publications." />
+	<meta name="Keywords" content="Michal Certicky, publications, bio, contact, email" />
+    
+    <script>
+
+        // routing
+        $(document).ready(function(){
+
+            Sammy('#app', function() {
+                
+                this.use('Template');
+                this.around(function(callback) {
+                  var context = this;
+                  callback();
+                });
+
+                // home
+                this.get('/#/', function(context) {
+                    context.app.swap('');
+                    context.render('./templates/home.template', {}).appendTo(context.$element());
+                    $('title').text('Michal Certicky');
+                });
+                
+                // contact
+                this.get('/#/contact', function(context) {
+                    context.app.swap('');
+                    context.render('./templates/contact.template', {}).appendTo(context.$element());
+                    $('title').text('Michal Certicky - Contact Information');
+                });
+                
+                // CV
+                this.get('/#/cv', function(context) {
+                    context.app.swap('');
+                    context.render('./templates/cv.template', {}).appendTo(context.$element());
+                    $('title').text('Michal Certicky - CV');
+                });
+
+                // publications
+                this.get('/#/publications', function(context) {
+                    context.app.swap('');
+                    context.render('./templates/publications.template', {}).appendTo(context.$element());
+                    $('title').text('Michal Certicky - Publications');
+                });
+                
+            }).run();
+        });
+    </script>
+        
+    
+</head>
+<body>
+
+	<div class="middle">
+
+	<!-- Top DIV with the headline -->
+	<div class="top">
+	
+	<h1>Michal Certicky: The Homepage</h1>
+	</div>
+	
+	<!-- Navigation DIV -->
+	<div class="navigation">
+		<a title="Homepage with Basic Info" href="./#/" style="background-image: none;">[ home ]</a>
+		<span class="link_separator">|</span>
+		<a title="Brief CV" href="./#/cv" style="background-image: none;">[ CV ]</a>
+		<span class="link_separator">|</span>
+		<a title="Publications" href="./#/publications" style="background-image: none;">[ publications ]</a>
+		<span class="link_separator">|</span>
+		<a title="Contact Information" href="./#/contact" style="background-image: none;">[ contact ]</a>
+	</div>
+
+	<!-- Left-Side DIVS -->
+	<div class="left_part">
+
+		<!-- photo -->
+		<div class="left" id="left_photo">
+			<img src="./img/page_design/photo.png" alt=""/>
+		</div>
+
+		<!-- QR Code -->
+		<div class="left" id="left_qr">
+			<img src="./img/page_design/qr-code.png" alt=""/>
+		</div>
+
+		<!-- external links -->
+		<div class="left" id="left_links">
+			<h2>Links:</h2>
+			<ul style="list-style: none;">
+				<li><a href="http://www.sscaitournament.com/" title="StarCraft AI Tournament">StarCraft AI Tournament</a></li>
+                <li><a href="http://gas.fel.cvut.cz/" title="Games and Simulations Research Group">GAS, CVUT</a></li>
+				<li><a href="http://aic.fel.cvut.cz/" title="Artificial Intelligence Center">AIC, CVUT</a></li>
+				<li><a href="http://dai.fmph.uniba.sk/" title="Department of Applied Informatics">DAI, FMPH</a></li>
+				<li><a href="http://cognitivesciencesociety.org/" title="Cognitive Science Society">CogSci Soc.</a></li>
+				<li><a href="http://urbanalgorithmics.com/" title="Urban Algorithmics">Urban Algorithmics</a></li>
+				<li><a href="http://dayswaps.com/" title="Dayswaps">Dayswaps</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<!-- Main CONTENT -->
+	<div class="content">
+        
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+              <div id="app">
+              <!-- template will be injected here -->
+              </div>
+            </div>
+        </div>
+	
+	</div>
+
+	<!-- Footer DIV -->
+	<div class="footer">
+	...created under <a href="http://sam.zoy.org/wtfpl/">WTFPL</a> licence, 2009.
+	</div>
+
+	</div>
+    
+    <script>
+    </script>
+	
+</body>
+</html>

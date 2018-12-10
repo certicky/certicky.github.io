@@ -1,0 +1,26 @@
+/* divs located in the LEFT PART of the site - FOR IE7 */
+.left
+{
+position: absolute !important;
+width: 120px !important;
+padding: 1ex;
+left: 2ex;
+background: rgb(139, 117, 90);
+color: rgb(200,200,200);
+border: solid 1px white;
+font-size: 90%;
+}
+
+/* IE7 relative positioning for LEFT-SIDE  DIVS*/
+#left_photo, #left_qr
+{
+margin: 12px 0px 0px 0px !important;
+}
+#left_friends
+{
+margin: 165px 0px 0px 0px !important;
+}
+#left_links
+{
+margin: 310px 0px 0px 0px !important;
+}

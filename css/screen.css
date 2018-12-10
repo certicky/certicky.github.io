@@ -1,0 +1,274 @@
+/* BASIC DECLARATIONS */
+*
+{
+margin: 0;
+padding: 0;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body
+{
+text-align: center;
+background: black url('../img/page_design/back.gif');
+color: white;
+}
+
+h1
+{
+font-size: 200%;
+}
+
+h2
+{
+font-size: 150%;
+}
+
+h3
+{
+font-size: 125%;
+}
+
+a, a:active, a:visited
+{
+color: white;
+background-color: inherit;
+text-decoration: none;
+}
+a:hover
+{
+color: rgb(40, 28, 22);
+background-color: inherit;
+}
+a.pdf
+{
+background-image: url('../img/page_design/icon_pdf.gif');
+background-repeat: no-repeat;
+background-position: 0 6px;
+padding-left: 13px;
+}
+a.doc
+{
+background-image: url('../img/page_design/icon_doc.gif');
+background-repeat: no-repeat;
+background-position: 0 6px;
+padding-left: 13px;
+}
+a.link
+{
+background-image: url('../img/page_design/icon_link.gif');
+background-repeat: no-repeat;
+background-position: 0 6px;
+padding-left: 13px;
+}
+
+img
+{
+border-style: none;
+}
+
+div.middle
+{
+text-align: left;
+border-left: solid 1px white;
+width: 90ex; 
+margin: 0 auto;
+color: rgb(223,159,88);
+background: #57452d;
+}
+	
+/* NAVIGATION part of the HEADER */
+.navigation
+{
+background-color: rgb(136, 119, 95); 
+color: white;
+height: 3ex;
+border-right: solid 1px white;
+border-bottom: solid 1px white;
+padding-top: 1ex;
+}
+
+.navigation a
+{
+margin-left: 1ex;
+}
+
+/* H2 decorational arrow */
+.headline_arrow
+{
+margin-right: 1ex;
+}
+
+/* invisible link separator - just for WCAG optimalization */
+.link_separator
+{
+position: absolute;
+left: -999ex;
+}
+
+/* TOP-part of the HEADER */
+.top
+{
+height: 4em;
+background-image: url('../img/page_design/top.png');
+background-position: center;
+background-repeat: repeat;
+border-left: none 0px white;
+border-bottom: solid 1px white;
+border-top: solid 1px white;
+border-right: solid 1px white;
+color: rgb(140, 117, 90);
+background-color: black;
+}
+
+/* MAIN HEADLINE */
+.top h1
+{
+margin: 1ex;
+text-align: right;
+}
+
+/* FOOTER div */
+.footer
+{
+background-color: rgb(136, 119, 95); 
+color: white;
+height: 3ex;
+border-right: solid 1px white;
+border-top: solid 1px white;
+border-bottom: solid 1px white;
+padding: .5ex;
+font-size: 80%;
+text-align: right;
+}
+
+/* LEFT PART div, containing other divs */
+div.left_part
+{
+z-index: 2;
+float: left;
+width: 20ex;
+position: relative; /* just to enable the absolute positioning for IE6 */
+}
+
+/* divs located in the LEFT PART of the site */
+.left
+{
+position: relative !important;
+position: absolute; /* just for IE6 */
+
+width: 14ex !important;
+width: 120px;  /* absolute width for IE6 */
+padding: 1ex;
+left: 2ex;
+background: rgb(139, 117, 90);
+color: rgb(200,200,200);
+border: solid 1px white;
+font-size: 90%;
+}
+.left h2
+{
+font-size: 100%;
+background: 0 50% no-repeat url('../img/page_design/arrow.gif');
+padding-left: 12px;
+}
+.left ul
+{
+padding-left: 12px;
+}
+.left img
+{
+max-width: 12.5ex;
+}
+
+/* IE6 absolute positioning for LEFT-SIDE  DIVS*/
+#left_photo, #left_qr
+{
+margin: 3ex 1ex 4ex 1ex !important; 
+margin: 12px 0px 0px 0px;
+text-align: center;
+}
+#left_photo img, #left_qr img {
+	margin-top: 5px;
+}
+#left_photo img {
+	filter: sepia(28%);
+}
+
+#left_friends
+{
+margin: 3ex 1ex 4ex 1ex !important; 
+margin: 165px 0px 0px 0px;
+}
+#left_links
+{
+margin: 3ex 1ex 4ex 1ex !important; 
+margin: 310px 0px 0px 0px;
+}
+#left_photo img
+{
+border: solid 1px white;
+}
+
+/* div containing the CONTENT of the current page */
+div.content
+{
+position: relative;
+padding-left: 20ex;
+width: 70ex;
+min-height: 92ex;
+
+height: auto !important;
+height: 92ex; /* simulation of "min-height" property for IE6 */
+background-image: url('../img/page_design/back2.png');
+background-position: top left;
+background-repeat: no-repeat;
+background-size: 20ex auto;
+}
+div.content h2
+{
+text-indent: 1ex;
+padding: .3ex 0 .3ex 2%;
+display: block;
+width: 98%;
+background: 1ex 50% no-repeat url('../img/page_design/arrow.gif') rgb(40,28,22);
+color: white;
+font-size: 110%;
+}
+div.content h3
+{
+text-indent: 1ex;
+display: block;
+width: 100%;
+background: rgb(108,90,66);
+color: rgb(230, 230, 230);
+font-size: 100%;
+border-top: dotted 1px rgb(203,139,68);
+border-bottom: dotted 1px rgb(203,139,68);
+padding: 1ex 0ex 1ex 0ex;
+}
+div.content p
+{
+padding: 1ex;
+}
+div.content li
+{
+margin: .5ex 1ex 0ex 4ex;
+}
+div.content ul
+{
+margin: 0ex 0ex 2ex 0ex;
+}
+
+
+/* PHOTOS in GALLERY */
+.gallery_image
+{
+border: solid 1px white;
+margin: 1em;
+height: 133px;
+}
+
+/* Publications section tweaks  */
+i b {
+	color: #D2CAC2;
+}
