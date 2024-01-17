@@ -1,7 +1,7 @@
         <h2>Personal information</h2>
 		<ul>
 			<li><b>Name: </b>Michal Certicky</li>
-			<li><b>Born: </b>9. August 1985, Slovakia</li>
+			<li><b>Born: </b>1985, Slovakia</li>
 		</ul>
 
 		<h2>Education</h2>
@@ -27,9 +27,12 @@
 				Physics and Informatics of Comenius University in Bratislava, Slovakia.
 			</li>
 		</ul>
-				<h2>Occupation</h2>
-
+        
+        <h2>Occupation</h2>
 		<ul>
+            <li>
+                Co-founder and CTO of a Prague-based tech company <a href="https://dayswaps.com/">Dayswaps</a> dealing with HR & workforce management.
+            </li>
 			<li>
 				Senior researcher in <a href="http://aic.fel.cvut.cz/" title="Artificial Intelligence Center">AIC: Artificial Intelligene Center</a> at FEE, Czech Technical University in Prague.
 			</li>
@@ -38,15 +41,15 @@
                 at AIC, Czech Technical University in Prague.
             </li>
             <li>
-                Founder and CEO of a Prague-based tech company <a href="http://urbanalgorithmics.com/?locale=en">Urban Algorithmics</a>, dealing with business intelligence and population modeling.
+                Founder and CEO of a Prague-based tech company <a href="http://urbanalgorithmics.com/?locale=en">Urban Algorithmics</a> dealing with business intelligence and population modeling.
             </li>
+            <li>
+				Formerly a member of Knowledge Representation Research group (KR/KRG), chaired by Ján Šefránek, at <a href="http://www.dai.fmph.uniba.sk/">Department of Applied Informatics</a>, Comenius University.
+			</li>
 			<li>
-				My current research interests revolve mainly around artificial intelligence, machine learning, modeling and simulation.
+				My research interests revolve mainly around artificial intelligence, machine learning, modeling and simulation. In the past, they were also focused on computational logic and symbolic AI.
 			</li>
 			<!--
-			<li>
-				I am a member of Knowledge Representation Research group (KR/KRG), chaired by Ján Šefránek, at <a href="http://www.dai.fmph.uniba.sk/">Department of Applied Informatics</a>, Comenius University.
-			</li>
 			<li>
 				My former interests were focused on web-related problems including usability and accessibility. In 2007 I cooperated with 
 				<a href="http://cezap.sk/" title="Support Centre for Visually Impaired Students">CEZAP</a> (Support Centre for Visually Impaired 

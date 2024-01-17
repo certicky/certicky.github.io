@@ -1,103 +1,65 @@
 <h2>Publications</h2>
 <ul>
     <!--begin-->
-
+    <li>D. Fiedler, M. Čertický, J. Alonso-Mora, M. Pěchouček, M. Čáp. <a href="./files/publications/large-scale-online-ride-sharing.pdf">Large-scale Online Ridesharing: The Effect of Assignment Optimality on System Performance</a>. <i>Journal of Intelligent Transportation Systems, pp 1-22. 2022.</i></li>
+    <li>L. F. Sobková, Š. Jiráček, M. Čertický. <a href="./files/publications/smartphone-based-sensing.pdf">Smartphone-based Sensing: Lifestyle and Mobility Data Interpretation by Smart Cities</a>. <i>Fourteenth International Conference on Urban Regeneration and Sustainability, pp. 335. 2020.</i></li>
+    <li>L. F. Sobková, M. Čertický, Š. Jiráček. <a href="./files/publications/application-of-transportation-big-data.pdf">Application of Transportation Big Data to Support Decision-making for Architecture Teams: Processes and Experiences from two Case Studies</a>. <i>WIT Transactions on Ecology and the Environment. 2019.</i></li>
     <li>Martin Čertický, Michal Čertický, Peter Sinčák, Gergely Magyar, Ján Vaščák, Filippo Cavallo. <a href="./files/publications/sensors-19-00989.pdf">Psychophysiological Indicators for Modeling User Experience in Interactive Digital Entertainment</a>. <i>Sensors 2019, 19, 989. DOI: 10.3390/s19050989. 2019</i>.</li>
-
     <li>Jan Drchal, Michal Čertický, Michal Jakob. <a href="./files/publications/data-driven-activity-scheduler-2019.pdf">Data-driven activity scheduler for agent-based mobility models</a>. <i>Transportation Research Part C: Emerging Technologies, pp. 370-390. DOI: 10.1109/j.trc.2018.12.002. 2019</i>.</li>
-
     <li>Michal Čertický, David Churchill, Kyung-Joong Kim, Martin Čertický, Richard Kelly. <a href="./files/publications/Starcraft-AI-ToG-2018.pdf" >StarCraft AI Competitions, Bots and Tournament Manager Software</a>. <i>IEEE Transactions on Games (ToG): 1-13. DOI: 10.1109/TG.2018.2883499. Print ISSN: 2475-1502. Online ISSN: 2475-1510. 2018</i>.</li>
-
     <li>M. Viazovskyi, M. Čertický <a href="./files/publications/staralgo-arxiv-2018.pdf">StarAlgo: A Squad Movement Planning Library for StarCraft using Monte Carlo Tree Search and Negamax</a>. <i>arXiv preprint arXiv:1812.11371. 2018</i>.</li>
-
     <li>D. Fiedler, M. Čertický, Javier Alonso-Mora, M. Čáp. <a href="./files/publications/itsc2018.pdf" >The Impact of Ridesharing in Mobility-On-Demand Systems: Simulation Case Study in Prague</a>. <i>21st IEEE International Conference on Intelligent Transportation Systems (ITSC 2018). 2018</i>.</li>
-    
     <li>J. Malý, M. Šustr, M. Čertický <a href="./files/publications/starcraft-docker-technical-report.pdf" >Multi-platform Version of StarCraft: Brood War in a Docker Container: Technical Report</a>. <i>arXiv preprint arXiv:1801.02193. 2018</i>.</li>
-
     <li>M. Čertický, D. Churchill. <a href="./files/publications/aiide17-certicky-churchill.pdf" >The Current State of StarCraft AI Competitions and Bots</a>. <i>AIIDE-17 Workshop on Artificial Intelligence for Strategy Games. 2017</i>.</li>
-
     <li>D. Fiedler, M. Čáp, M. Čertický. <a href="./files/publications/itsc2017.pdf" >Impact of Mobility-on-Demand on Traffic Congestion: Simulation-based Study</a>. <i>20th IEEE International Conference on Intelligent Transportation Systems (ITSC 2017). 2017</i>.</li>
-
     <li>L. F. Sobková, M. Čertický. <a href="./files/publications/urban-transport-2017.pdf" >Urban Mobility and Influence Factors - Case Study Prague</a>. <i>WIT Transactions on The Built Environment, Vol. 176 (ISSN: 1743-3509, DOI: 10.2495/UT170181): 207-217. 2017</i>.</li>
-
     <li>M. Čertický, M. Jakob, R. Píbil. <a href="./files/publications/arts2016.pdf" >Simulation Testbed for Autonomic Demand-Responsive Mobility Systems</a>. Chapter in <i>Autonomic Road Transport Support Systems: 147-164. ISBN: 978-3-319-25806-5. DOI:&nbsp;10.1007/978-3-319-25808-9. 2016</i>.</li>
-
     <li>J. Drchal, M. Čertický, M. Jakob. <a href="./files/publications/jasss2016.pdf" >VALFRAM: Validation Framework for Activity-based Models</a>. <i>Journal of Artificial Societies and Social Simulation (JASSS). 2016</i>.</li>
-
     <li>D. Churchill, M. Preuss, F. Richoux, G. Synnaeve, A. Uriarte, S. Ontanón, M. Čertický. <a href="./files/publications/ecgg15_chapter-competitions.pdf" >StarCraft Bots and Competitions</a>. Chapter in <i>Encyclopedia of Computer Graphics and Games (ECGG). Springer International Publishing. ISBN: 978-3-319-08234-9. 2016</i>.</li>
-    
     <li>M. Čertický, J. Drchal, M. Cuchý, M. Jakob. <a href="./files/publications/mt-its-2015.pdf" >Fully Agent-based Simulation Model of Multimodal Mobility in European Cities</a>. <i>Models and Technologies for Intelligent Transportation Systems (MT-ITS). 2015</i>.</li>
-
     <li>J. Drchal, M. Čertický, M. Jakob. <a href="./files/publications/mabs-springer.pdf" >Data Driven Validation Framework for Multi-agent Activity-based Models</a>. <i>Multi-Agent Based Simulation XVI. International Workshop, MABS 2015. Springer International Publishing. 2015</i>.</li>
-
     <li>J. Drchal, M. Čertický, M. Jakob. <a href="./files/publications/mabs2015.pdf" >Data Driven Validation Framework for Multi-agent Activity-based Models</a>. <i>arXiv preprint arXiv:1502.07601. 2015</i>.</li>
-
     <li>M. Čertický, M. Jakob, R. Píbil. <a href="./files/publications/JUSPN2015.pdf" >Analyzing On-demand Mobility Services by Agent-based Simulation</a>. <i>Journal of Ubiquitous Systems & Pervasive Networks 6(1): 17-26. 2015</i>.</li>
-
     <li>B. P. Mattsson, T. Vajda, M. Čertický. <a href="./files/publications/arxiv2015-observer.pdf" >Automatic Observer Script for StarCraft: Brood War Bot Games (technical report)</a>. <i>arXiv:1505.00278 [cs.AI], 2015</i>.</li>
-
     <li>Martin Čertický, Michal Čertický, <a href="./files/publications/scyr2015.pdf" >Evolving Reactive Micromanagement Controller for Real-Time Strategy Games</a>. <i>In Proceedings of Scientific Conference of Young Researchers (SCYR 2015), 2015</i>.</li>
-
     <li>M. Stanescu, M. Čertický. <a href="./files/publications/tciaig2014.pdf" >Predicting Opponent’s Production in Real-Time Strategy Games with Answer Set Programming</a>. <i>IEEE Transactions on Computational Intelligence and AI in Games (TCIAIG), Volume PP, Issue 99. DOI: 10.1109/TCIAIG.2014.2365414. 2014</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/aai2014.pdf" >Real-Time Action Model Learning with Online Algorithm 3SG</a>. <i>Applied Artificial Intelligence: An International Journal, Volume 28, Issue 7. DOI: 10.1080/08839514.2014.927692. 2014</i>.</li>
-
     <li>M. Čertický, M. Homola, J. Kľuka, S. Serra, V. Svátek, A. Šimko, M. Vacura, O. Zamazal. <a href="./files/publications/znalosti2014.pdf" >LAAOS: Logical Aspects of Adaptable Ontological Schemas (Project Overview)</a>. <i>In proceedings of Znalosti 2014 (EEE – Exhibice, Edukace a nacházení Expertů). 2014</i>.</li>
-
     <li>M. Čertický, M. Jakob, R. Píbil, Z. Moler. <a href="./files/publications/ABMTRANS_16_Certicky.pdf" >Agent-based Simulation Testbed for On-demand Mobility Services</a>. <i>In proceedings of the 3rd International Workshop on Agent-based Mobility, Traffic and Transportation Models, Methodologies and Applications (ABMTRANS). 2014</i>.</li>
-
     <li>M. Čertický, M. Jakob, R. Píbil, Z. Moler. <a href="./files/publications/aamas-2014-mobility-testbed.pdf" >Agent-based Simulation Testbed for On-demand Transport Services (Demonstration)</a>. <i>In proceedings of 13th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS). 2014</i>.</li>
-
     <li>M. Čertický. <a href="http://www.ceser.in/ceserp/index.php/ijai/article/view/2313" >Conformant Planning with Static Causal Laws and Negation as Failure: Decomposition of the ASP Approach</a>. <i>International Journal of Artificial Intelligence (IJAI), Volume 12, Number 1. 2014</i>.</li>
-
     <li>M. Jakob, M. Čertický. <a href="./files/publications/arts2013.pdf" >Simulation Testbed for the Accelerated Development of Autonomic Mobility Systems</a>. <i>In postproceedings of 1st International Systems Competition on Autonomic Features and Technologies for Road Traffic Flow Modelling and Control Systems, 2013</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/action-model-learning-challenges-and-techniques.pdf" >Action Model Learning: Challenges and Techniques (dissertation thesis)</a>. <i>Faculty of Mathematics and Physics, Comenius University, Bratislava, 2013</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/organon2013.pdf" >Action Models and their Induction</a>. <i>Organon F 20 (Supplementary Issue 2): 206-215, 2013</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/arxiv2013-wall-in.pdf" >Implementing a Wall-In Building Placement in StarCraft with Declarative Programming</a>. <i>arXiv:1306.4460 [cs.AI], 2013</i>.</li>
-
     <li>Martin Čertický, Michal Čertický, <a href="./files/publications/scyr2013.pdf" >Case-Based Reasoning for Army Compositions in Real-Time Strategy Games</a>. <i>In Proceedings of Scientific Conference of Young Researchers (SCYR 2013): 70-73, 2013</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/svkfmfi2012_submission_11.pdf" >Učenie sa akčných modelov v reálnom čase pomocou algoritmu 3SG: vlastnosti a experimenty</a>. <i>In Proceedings of Student Research Conference 2012, 2012</i>.</li>
-
     <li>M. Čertický, M Homola, A Šimko, J. Šiška. <a href="./files/publications/kuz12-certicky-homola-simko-siska.pdf" >Inteligentný dom ako heterogénna agentová platforma</a>. <i>In Proceedings of Cognition and Artificial Life XII, 2012</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/kuz12-certicky-3sg.pdf" >3SG algoritmus a učenie sa akčných modelov v reálnom čase</a>. <i>In Proceedings of Cognition and Artificial Life XII, 2012</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/icas2012.pdf" >Action Learning with Reactive Answer Set Programming: Preliminary Report</a>. <i>In Proceedings of The Eighth International Conference on Autonomic and Autonomous Systems (ICAS 2012), 2012</i>.</li>
-
     <li>M. Čertický, J Šiška, M. Vince. <a href="./files/publications/wikt2011_submission_29.pdf" >LCP: A Lightweight Communication Platform for Heterogenous Multi-context Systems</a>. <i>In Proceedings of 6th Workshop on Intelligent and Knowledge oriented Technologies (WIKT'11), 2011</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/wikt2011_submission_1.pdf" >Decomposition Trick for Planning with Answer Set Semantics</a>. <i>In Proceedings of 6th Workshop on Intelligent and Knowledge oriented Technologies (WIKT'11), 2011</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/Enhancing-ASP-based-Planning-by-Heuristic-Graph-search-Techniques.pdf" >Enhancing ASP-based Planning by Heuristic Graph-search Techniques</a>. <i>Technical Reports, Comenius University, Bratislava, 2011</i>.</li>
-
     <li>V. Dziuban, M. Čertický, J. Šiška, M. Vince. <a href="./files/publications/Lightweight-Communication-Platform-for-heterogenous-MCS.pdf" >A Lightweight Agent Communication Platform for Heterogeneous Multi-context Systems: A Preliminary Report</a>. <i>In proceedings of 11th International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR-11), Log-IC workshop</i>.</li>
-
     <li>M. Vince, M. Čertický, V. Dziuban. <a href="./files/publications/svk-2011-paper.pdf" >Decentralized Lightweight Communication Platform for Heterogeneous Multi-context Systems (Extended Abstract)</a>. <i>Student Research Conference 2011 Proceedings</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/online_action_learning_techniques_for_noisy_and_partially_observable_domains.pdf" >Online Action Learning Techniques for Noisy and Partially Observable Domains (dissertation proposal)</a>. <i>Faculty of Mathematics and Physics, Comenius University, Bratislava, 2011</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/kuz_2010_ik-strips.pdf" >Plánovanie na symbolových modeloch sveta so stabilnomodelovou sémantikou</a>. <i>In Proceedings of Kognice a Umělý Život X (KUŽ X), 2010</i>.</li>
-
     <li>J. Frank, M. Čertický, K. Rebrová. <a href="./files/publications/kuz_2010_pragmaticka_inferencia.pdf" >Skúmanie funkcie obsahu pri pragmatickej inferencii s využitím sociálnych sietí</a>. <i>In Proceedings of Kognice a Umělý Život X (KUŽ X), 2010.</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/svk_2010_proceedings.pdf" >Fluent-free Action Representation with IK-STRIPS Planning Formalism</a>. <i>Student Research Conference 2010 Proceedings</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/ik-strips-report.pdf" >IK-STRIPS Formalism for Fluent-free Planning with Incomplete Knowledge</a>. <i>Technical Reports, Comenius University, Bratislava, 2010</i>.</li>
-
     <li>M. Čertický. An Architecture for Universal Knowledge-based Agent. <i>MEi:CogSci 2009 Proceedings</i>.</li>
-
     <li>M. Čertický. <a href="./files/publications/an_architecture_for_universal_knowledge-based_agent.pdf" >An Architecture for Universal Knowledge-based Agent (master thesis)</a>. <i>Faculty of Mathematics and Physics, Comenius University, Bratislava, 2009</i>.</li>
-    
     <li>M. Čertický. Architecture for Universal Knowledge-based Agent. <i>MEi:CogSci 2008 Proceedings</i>.</li>
-    
     <li>M. Čertický. <a href="./files/publications/bakalarska_praca_michal_certicky.pdf" >Fundamentals of Artificial Intelligence E-learning (Bc. thesis)</a>. <i>Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava</i>. 2007.</li>
     <!--end-->
 </ul>
-<p style="text-align: right">The list of these publications is also available <a href="http://dai.fmph.uniba.sk/~certicky/">here</a>.</p>
+<p style="text-align: right">The list of these publications is also available at <a href="https://scholar.google.sk/citations?user=5h3L2YIAAAAJ">my Google Scholar profile</a>.</p>
+
+<h2>Book Contributions</h2>
+<ul>
+    <li>M. Čertický. <a href="https://link.springer.com/referencework/10.1007/978-3-031-23161-2">Encyclopedia of Computer Graphics and Games</a>. (you can request access to that document at <a href="https://drive.google.com/file/d/1gmEjTlyyy6K8dEagiEahgubSXuXING5n/view?usp=sharing">Google Drive</a>) <i>Springer Link. 2024. Reference work.</i></li>
+</ul>
+
 <h2>Supervising &amp; Consulting Theses</h2>
 <ul>
     <li>K. Švec. <i>Modelling the Influence of Demography on Political Preferences</i> (bachelor thesis, supervising). <i>Faculty of Electrical Engineering, Czech Technical University in Prague</i>. 2018.</li>
